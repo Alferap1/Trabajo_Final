@@ -11,3 +11,4 @@ una desvaentaja del optimizador mayor consumo de memoria.
 una vez realizado el entrenamiento  evaluacion de conjunto de pruebas con el dataset y el una imagen 
 -evaluando con el dataset Test  el 'accuracy': 0.1209876537322998}
 -con una imagen  13.83  % de exactitud.
+-Una vez cambiado las imagenes a escala de gises se verifica que acurracy se redujo del 85 al 13 representa un nivel bajo de precicion y que el color RGB es fundamental para en buen accurracy
